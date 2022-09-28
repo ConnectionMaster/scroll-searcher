@@ -1,4 +1,5 @@
-# Scroll-Searcher package
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Scroll-Searcher package
 
 
 Scroll Searcher package adds to the functionality of atom's find-and-replace package. It displays the search results of find-and-replace package on scrollbar.
